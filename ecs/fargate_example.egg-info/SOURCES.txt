@@ -1,0 +1,7 @@
+README.md
+setup.py
+ecs/fargate_example.egg-info/PKG-INFO
+ecs/fargate_example.egg-info/SOURCES.txt
+ecs/fargate_example.egg-info/dependency_links.txt
+ecs/fargate_example.egg-info/requires.txt
+ecs/fargate_example.egg-info/top_level.txt
